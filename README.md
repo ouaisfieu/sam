@@ -1,6 +1,6 @@
 # 📝 Markdown Workstation
 
-> Un éditeur Markdown complet, puissant et élégant directement dans votre navigateur
+> Un éditeur Markdown complet, puissant et élégant directement dans [votre navigateur](eatme.html)
 
 ![Version](https://img.shields.io/badge/version-2.0-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
