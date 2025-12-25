@@ -268,7 +268,7 @@ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile ⭐ su
 ## 📸 Screenshots
 
 ### Interface principale - Mode Split
-![Split Mode](screenshots/split-mode.png)
+![Split Mode](og.png)
 
 ### Mode Éditeur seul
 ![Editor Mode](screenshots/editor-mode.png)
